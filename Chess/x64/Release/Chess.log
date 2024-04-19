@@ -1,0 +1,3 @@
+﻿  Generating code
+c:\users\dell\desktop\chess\chess\main-game.cpp : fatal error C1301: error accessing program database x64\Release\Chess.ipdb, invalid format, please delete and rebuild
+LINK : fatal error LNK1257: code generation failed
